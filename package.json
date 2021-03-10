@@ -1,0 +1,27 @@
+{
+  "name": "axios-interceptor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navneetsharma1988/axios-interceptor.git"
+  },
+  "author": "Test",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navneetsharma1988/axios-interceptor/issues"
+  },
+  "homepage": "https://github.com/navneetsharma1988/axios-interceptor#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.10"
+  }
+}
